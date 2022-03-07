@@ -1,6 +1,6 @@
-# Duplicate Tab by [awal.io](awal.io)
+# Duplicate Tab by LapisOnTheMoon, forked from [awal.io](awal.io)
 
-Finally! An open source extension for duplicating a tab with a click or keyboard shortcut.
+Finally! An open source extension for duplicating a tab with a click, keyboard shortcut or using the right-click context menu.
 
 [Check it out in the Chrome Web Store.](https://chrome.google.com/webstore/detail/lgfojgkhjjjkkfmhogmckcopmmpmpdjf)
 
@@ -21,5 +21,5 @@ Choose your shortcut in [chrome://extensions/shortcuts](chrome://extensions/shor
 
 Where can I find the source code?
 ------------------------------------
-https://github.com/alexwal/duplicate-tab-chrome-extension
+https://github.com/LapisOnTheMoon/duplicate-tab-chrome-extension
 
