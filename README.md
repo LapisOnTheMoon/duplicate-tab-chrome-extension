@@ -1,4 +1,4 @@
-# Duplicate Tab by LapisOnTheMoon, forked from [awal.io](awal.io)
+# Duplicate Tab by LapisOnTheMoon, forked from [awal.io](https://awal.io)
 
 An updated version of alexwal's Duplicate Tab extension for Chrome. Check out the original [here](https://github.com/alexwal/duplicate-tab-chrome-extension)
 
